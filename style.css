@@ -1,0 +1,44 @@
+.google:hover {
+    font-weight: bolder;
+    color:lightblue
+}
+.amazon:active {
+    color: red;
+    font-style: italic;
+}
+
+.marktplaats:visited {
+    color: yellow;
+}
+
+.text:focus {
+    font-size: 20px;
+    color: green;
+}
+
+.menu {
+    background-color:darkblue;
+    display: flex;
+    flex-direction: row;
+    width:fit-content;
+    padding: 0px
+}
+
+ul li {
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+.currentpage {
+    background-color:cornflowerblue
+}
+
+.about:hover {
+    background-color: lightblue;
+}
+
+.input:focus {
+    border: 1px solid aqua;
+    outline: none;
+}
+
